@@ -214,8 +214,8 @@
   <string id="832">獎勵：</string>
   <string id="844">調查回覆</string>
   <string id="14219">修理</string>
-  <string id="14234">遷入</string>
-  <string id="14436">正在修理……</string>
+  <string id="14234">可遷入</string>
+  <string id="14436">修理中……</string>
   <string id="383">統計資料</string>
   <string id="384">已租公寓：</string>
   <string id="385">帳戶：</string>
@@ -382,7 +382,7 @@
   <string id="12259">特工馬克·雷尼克舉報了一位官員收受賄賂。</string>
   <string id="13454">用於葬禮服務。</string>
   <string id="13519">卡爾·斯坦，我們通知你，
-你的兒子帕裡克·斯坦因為沒交學費被開除了。
+你的兒子帕裡克·斯坦因為沒交學費被退學了。
 他已被送去編號 37/42 礦山當設備工。
 分配部</string>
   <string id="573">市民馬克·雷納克舉報了一位官員的受賄行為。
@@ -490,26 +490,10 @@
   <string id="14528">Dmitry Nekrasov</string>
   <string id="14529">Anna Fedorova</string>
   <string id="16384">Dmitry Ustyantsev</string>
-  <string id="16921">中文本地化由Project Gutenberg提供，indienova開發。謝謝如下夥伴：</string>
-  <string id="16922">一只小雨
-潦倒困
-Dante
-Redspine
-Sissel
-乱堆糖果</string>
-  <string id="16923">west
-胡萝卜
-QAQ
-daqicheng
-葉月
-醒醒吧阿橘
-doodle</string>
-  <string id="16944">paledust
-DeqingLi
-Cure蟹老板
-某浠
-sun
-crafteverywhere</string>
+  <string id="16921">中文本地化由Paiiimannnoitla提供，indienova開發。謝謝如下夥伴：</string>
+  <string id="16922"></string>
+  <string id="16923"></string>
+  <string id="16944"></string>
   <string id="14708">敘事開/關</string>
   <string id="14709">人物移動</string>
   <string id="14710">樓層間移動</string>
@@ -542,7 +526,7 @@ crafteverywhere</string>
   <string id="175">禁止所有形式的娛樂活動！</string>
   <string id="177">不得隱瞞病情！持有醫療用品同樣也屬於非法行為。</string>
   <string id="179">禁止閱讀或持有書籍！</string>
-  <string id="169">禁止持有橡皮鴨！</string>
+  <string id="169">禁止持有橡皮小鴨！</string>
   <string id="168">禁止生產藥物！</string>
   <string id="8247">閱讀或持有保羅·威廉姆斯的書是違法的。</string>
   <string id="8248">禁止生產政治宣傳品。</string>
@@ -720,7 +704,7 @@ crafteverywhere</string>
   <string id="653">這根皮帶已經壞掉了，
 但它是用優質皮革製成的。</string>
   <string id="353">懷錶</string>
-  <string id="654">一隻質量很好的懷錶。
+  <string id="654">一隻品質很好的懷錶。
 按照它的狀況判斷，
 它應該至少有 50 年的歷史了！</string>
   <string id="354">眼鏡</string>
@@ -736,10 +720,10 @@ crafteverywhere</string>
   <string id="86">電話本</string>
   <string id="660">裡面含有每個市民和企業的電話號碼。</string>
   <string id="357">藍色襯衣</string>
-  <string id="697">一件樸素且質量普通的棉質襯衣。
+  <string id="697">一件樸素且品質普通的棉質襯衣。
 這種襯衣在市民中很流行。</string>
   <string id="358">紫色襯衣</string>
-  <string id="698">一件樸素且質量普通的棉質襯衣。
+  <string id="698">一件樸素且品質普通的棉質襯衣。
 這種襯衣在市民中很流行。</string>
   <string id="360">綠色領帶</string>
   <string id="700">一條色彩鮮亮的領帶。
@@ -772,7 +756,7 @@ crafteverywhere</string>
 一個月後，
 這種褲子在國內幾乎人手一條。</string>
   <string id="84">襪子</string>
-  <string id="748">這就是一隻襪子，一隻普通的襪子。
+  <string id="748">這是一隻襪子，一隻普通的襪子。
 並非什麼特別的襪子。</string>
   <string id="85">紅襪子</string>
   <string id="747">這只是一隻紅色襪子，
@@ -873,7 +857,7 @@ crafteverywhere</string>
   <string id="477">裝滿品質普通的煙草的袋子。</string>
   <string id="478">這個煙斗看起來就經常被抽。
 我希望他們抽的是煙草而不是其他髒東西……</string>
-  <string id="627">質量一般的煙草。</string>
+  <string id="627">品質一般的煙草。</string>
   <string id="628">喜歡賭博。</string>
   <string id="420">畫筆</string>
   <string id="625">一把多用途筆刷。</string>
@@ -932,7 +916,7 @@ crafteverywhere</string>
   <string id="526">這種帽子如今很少有人戴了，
 因為它們擋不住煙霧。</string>
   <string id="527">手提包</string>
-  <string id="528">高質量的皮革手提包。</string>
+  <string id="528">高品質的皮革手提包。</string>
   <string id="79">炸彈</string>
   <string id="637">一個危險的爆炸裝置。</string>
   <string id="638">發現炸彈！</string>
@@ -1153,7 +1137,7 @@ crafteverywhere</string>
   <string id="4752">在高溫下混合多種顏色糖果的產物。
 時下正流行。</string>
   <string id="4744">罐頭魚</string>
-  <string id="4745">50 罐質量堪憂的魚……</string>
+  <string id="4745">50 罐品質堪憂的魚……</string>
   <string id="4736">成熟多汁的蘋果</string>
   <string id="157">青蘋果</string>
   <string id="158">紅蘋果</string>
@@ -1173,7 +1157,7 @@ crafteverywhere</string>
   <string id="12339">太乾了，我一口也吃不下去了。</string>
   <string id="12374">鹽</string>
   <string id="12375">外國鹽，細粒的。
-國內的鹽太粗了會損傷你的牙齒。</string>
+國內的鹽粗到會損傷你的牙齒。</string>
   <string id="3595">真相的聲音</string>
   <string id="905">劇場醜聞</string>
   <string id="906">「愛與和平」在首都的第一場夜間巡演
@@ -1243,7 +1227,7 @@ crafteverywhere</string>
   <string id="8227">我們對那些在貨船事故中失去家庭成員的人表示哀悼。
 我們船隊處於這樣可怕的狀態並且無法安全使用，
 這真是太不幸了。更可悲的是，除此之外，
-因為生活質量降低的人們正試圖逃往國外。
+因為生活品質降低的人們正試圖逃往國外。
 我們呼籲人們切勿成為騙子承諾的海外天堂的受害者；
 他們並不關心我們是否安全。
 這可能會導致悲劇。</string>
@@ -5318,7 +5302,7 @@ crafteverywhere</string>
   <string id="8437">你是個政府雇員了，卡爾。
 你已經有了證件、官方指令和大大的紅色電話。</string>
   <string id="8438">他正處於消化不良的痛苦中。
-你知道現在的食品雜貨的質量。</string>
+你知道現在的食品雜貨的品質。</string>
   <string id="8439">他說那個 2 號公寓的笨蛋在冰箱旁抓住了他，
 然後開始襲擊他。</string>
   <string id="8440">它對阿洛依修斯很重要。他是個老單身漢，
@@ -5420,7 +5404,7 @@ crafteverywhere</string>
   <string id="7823">我有魚罐頭。</string>
   <string id="7824">先拿錢給我，然後我們再談。</string>
   <string id="7826">談論罐裝食物</string>
-  <string id="7828">詢問食物的質量</string>
+  <string id="7828">詢問食物的品質</string>
   <string id="7829">駁回交易</string>
   <string id="7831">你注意到我很大方了嗎？</string>
   <string id="7832">計劃非常簡單。</string>
@@ -5437,7 +5421,7 @@ crafteverywhere</string>
   <string id="7843">你想要什麼？</string>
   <string id="7844">太好了！</string>
   <string id="7845">你一個人嗎？</string>
-  <string id="10049">這是質量最好的！從外國進口的！它將像烤餅一樣熱賣。
+  <string id="10049">這是品質最好的！從外國進口的！它將像烤餅一樣熱賣。
 但去市場還是不安全。我想悄悄把它們賣掉，
 整個過程中不讓人們注意到我的存在。</string>
   <string id="10050">瓊斯·博班尼都。煤駁船 234/87 上的水手長。
@@ -7360,7 +7344,7 @@ crafteverywhere</string>
   <string id="13186">我真的很困惑。現在我有錢了……
 但我不知道我是否能妥善理財。</string>
   <string id="13187">當然！它在冒煙，所以工廠才能運轉！這就意味著人民在工作，
-國家會變得富裕，生活質量會更高！</string>
+國家會變得富裕，生活品質會更高！</string>
   <string id="13188">我給你個提議，雖然風險很大，
 但非常賺錢。用你的錢投資外匯。</string>
   <string id="13189">和我想的一樣。我想如果我能將我的錢翻倍，
