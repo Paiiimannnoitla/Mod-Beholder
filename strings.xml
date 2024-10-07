@@ -60,7 +60,7 @@
   <string id="593">違反了法令 no.</string>
   <string id="594">頒布日期：</string>
   <string id="595">在公寓找到的證據：</string>
-  <string id="596">被攝像頭拍到：</string>
+  <string id="596">被監視器拍到：</string>
   <string id="823">房客{0}的報告已發出，
 警察前往公寓進行了調查。</string>
   <string id="215">控告檢查結果</string>
@@ -133,7 +133,7 @@
   <string id="9173">拿走</string>
   <string id="9174">偷竊</string>
   <string id="9175">放下</string>
-  <string id="9141">注意！盜竊犯根據法律將會被起訴！</string>
+  <string id="9141">注意！竊賊將被依法逮捕！</string>
   <string id="14435">全部拿走</string>
   <string id="16">開始遊戲</string>
   <string id="17">繼續遊戲</string>
@@ -141,7 +141,7 @@
   <string id="19">退出遊戲</string>
   <string id="20">開始</string>
   <string id="15">設置</string>
-  <string id="6">主菜單</string>
+  <string id="6">主選單</string>
   <string id="10">您確定要退出嗎？</string>
   <string id="11">製作組</string>
   <string id="12">
@@ -283,8 +283,8 @@
   <string id="19712">Polski</string>
   <string id="9194">跳過</string>
   <string id="9701">滑鼠</string>
-  <string id="9697">視角升高</string>
-  <string id="9698">視角降低</string>
+  <string id="9697">視角向上</string>
+  <string id="9698">視角向下</string>
   <string id="9699">視角轉左</string>
   <string id="9700">視角轉右</string>
   <string id="902">視角移動</string>
@@ -333,7 +333,7 @@
   <string id="761">要想修好傢俱，你需要一套修理工具。工具可在商店進行購買。</string>
   <string id="762">看似相同的事物也有反差很大的一面。</string>
   <string id="763">你可以與房客交談以獲得有用信息。</string>
-  <string id="764">你可以點擊安保攝像頭覆蓋區域的圖標或通過鑰匙孔偷看以收集所有相關信息。</string>
+  <string id="764">你可以點擊安保監視器覆蓋區域的圖標或通過鑰匙孔偷看以收集所有相關信息。</string>
   <string id="765">如果房客有非法行為，圖標會改變顏色。</string>
   <string id="766">在搜索過程中點擊有加色描述的物件來收集信息。
 但並非所有物件都含有描述。</string>
@@ -348,7 +348,7 @@
   <string id="773">如果卡爾的家人的請求沒有被滿足，他們可能會死去。</string>
   <string id="774">大部分事件都有多種完成方法。
 而整個故事的結局則取決於你所做出的選擇。</string>
-  <string id="775">攝像頭可以使用 WASD 鍵，或按住並拖動滑鼠左鍵來進行移動。</string>
+  <string id="775">監視器可以使用 WASD 鍵，或按住並拖動滑鼠左鍵來進行移動。</string>
   <string id="776">遊戲在每次任務後將自動保存。</string>
   <string id="777">
   </string>
@@ -361,7 +361,7 @@
   <string id="14217">使用你日誌中的檔案標籤。點擊修理來修理一間公寓。
 點擊遷入按鈕獲得新的房客。</string>
   <string id="274">你可以在房客被捕後，將其個人物品占為己有而不受懲罰。
-那些物品被放置在公寓前面的盒子裡。
+那些物品被放置在公寓前面的紙箱裡。
 盒子在公寓維修完畢後會消失。</string>
   <string id="14218">你可以使用你日誌中的檔案標籤來修理一間公寓，
 然後將其租出去。</string>
@@ -376,13 +376,13 @@
   <string id="10926">艾利·強森將軍的魚子醬</string>
   <string id="10927">艾利·強森將軍的飲料</string>
   <string id="10928">安娜·斯坦的醫療費用</string>
-  <string id="10929">房客對你的投訴。</string>
+  <string id="10929">房客對你的舉報。</string>
   <string id="10930">
   </string>
   <string id="12259">特工馬克·雷尼克舉報了一位官員收受賄賂。</string>
   <string id="13454">用於葬禮服務。</string>
   <string id="13519">卡爾·斯坦，我們通知你，
-你的兒子帕裡克·斯坦因為沒交學費被開除了。
+你的兒子派崔克·斯坦因為沒交學費被開除了。
 他已被送去編號 37/42 礦山當設備工。
 分配部</string>
   <string id="573">市民馬克·雷納克舉報了一位官員的受賄行為。
@@ -490,31 +490,15 @@
   <string id="14528">Dmitry Nekrasov</string>
   <string id="14529">Anna Fedorova</string>
   <string id="16384">Dmitry Ustyantsev</string>
-  <string id="16921">中文本地化由Project Gutenberg提供，indienova開發。謝謝如下夥伴：</string>
-  <string id="16922">一只小雨
-潦倒困
-Dante
-Redspine
-Sissel
-乱堆糖果</string>
-  <string id="16923">west
-胡萝卜
-QAQ
-daqicheng
-葉月
-醒醒吧阿橘
-doodle</string>
-  <string id="16944">paledust
-DeqingLi
-Cure蟹老板
-某浠
-sun
-crafteverywhere</string>
+  <string id="16921">中文本地化由Project Gutenberg提供，indienova開發。</string>
+  <string id="16922"></string>
+  <string id="16923"></string>
+  <string id="16944"></string>
   <string id="14708">敘事開/關</string>
   <string id="14709">人物移動</string>
   <string id="14710">樓層間移動</string>
   <string id="14711">放大</string>
-  <string id="14712">攝像頭移動</string>
+  <string id="14712">監視器移動</string>
   <string id="14713">商店</string>
   <string id="14714">工作簿</string>
   <string id="14715">庫存</string>
@@ -526,7 +510,7 @@ crafteverywhere</string>
   <string id="14721">暫停</string>
   <string id="14722">菜單</string>
   <string id="14728">收集房客信息</string>
-  <string id="38">擁有爆炸物或參加激進活動都是非法的！</string>
+  <string id="38">持有爆裂物或參加激進活動都是非法的！</string>
   <string id="40">法律禁止擁有或穿戴紅襪子，以及朗誦卡爾·伍斯特的詩！</string>
   <string id="165">禁止持有或使用武器！</string>
   <string id="167">禁止打電話或持有小冊子。</string>
@@ -637,7 +621,7 @@ crafteverywhere</string>
   <string id="8211">洗衣機</string>
   <string id="8212">
   </string>
-  <string id="65">監控攝像頭</string>
+  <string id="65">監控監視器</string>
   <string id="873">小視角範圍</string>
   <string id="758">視角範圍狹窄，錄影帶可用。</string>
   <string id="874">中等視角範圍</string>
@@ -1834,18 +1818,18 @@ crafteverywhere</string>
   <string id="8932">找到並拿走日誌。</string>
   <string id="8933">與你的上司交談以獲取新的指示。</string>
   <string id="8934">與你的上司談談。</string>
-  <string id="8935">我收到了第一項任務：找到攝像頭。</string>
-  <string id="8936">找到攝像頭 {0}/2</string>
-  <string id="8937">安裝攝像頭 {0}/2</string>
+  <string id="8935">我收到了第一項任務：找到監視器。</string>
+  <string id="8936">找到監視器 {0}/2</string>
+  <string id="8937">安裝監視器 {0}/2</string>
   <string id="8938">我的上司說給部長打電話獲得指示。</string>
   <string id="8939">給部長打電話。</string>
-  <string id="9139">在辦公室找到 {0}/2 攝像頭</string>
+  <string id="9139">在辦公室找到 {0}/2 監視器</string>
   <string id="9140">在公用廚房內安裝監視設備。</string>
   <string id="8940">犯罪與懲罰</string>
   <string id="8941">監視雅各·曼尼什科。
-你可以在商店購買攝像頭。</string>
+你可以在商店購買監視器。</string>
   <string id="8942">搜索 2 號公寓。</string>
-  <string id="8943">在 2 號公寓安裝攝像頭。</string>
+  <string id="8943">在 2 號公寓安裝監視器。</string>
   <string id="8944">收集雅各·曼尼什科的情報。</string>
   <string id="8945">打電話給部長並報告你已完成任務。</string>
   <string id="8946">給部長打電話</string>
@@ -2021,7 +2005,7 @@ crafteverywhere</string>
 你必須遞交一份報告。</string>
   <string id="320">為住宅中的每位房客都準備一份報告。</string>
   <string id="321">組織之眼</string>
-  <string id="322">安裝安保攝像頭。</string>
+  <string id="322">安裝安保監視器。</string>
   <string id="310">神秘盒子</string>
   <string id="311">我需要將這個盒子交給伊薩德魯契·布魯科奇。</string>
   <string id="279">丹唐的請求</string>
@@ -2126,7 +2110,7 @@ crafteverywhere</string>
   <string id="8254">商店</string>
   <string id="8255">錢</string>
   <string id="8256">聲望值</string>
-  <string id="8257">點擊煙霧探測器後選擇要安裝的攝像頭。 點擊籃子移除攝像頭。</string>
+  <string id="8257">點擊煙霧探測器後選擇要安裝的監視器。 點擊籃子移除監視器。</string>
   <string id="8258">餐廳</string>
   <string id="8259">部門電話----&gt;</string>
   <string id="8260">點擊門然後選擇一個行動：</string>
@@ -2162,13 +2146,13 @@ crafteverywhere</string>
   <string id="1536">你可以在街道和走廊上監視房客， 但卻看不到他們的公寓， 公共大廳也不對你可見。 你可以安裝監控設備來偷窺他們的行為並竊聽他們的對話。</string>
   <string id="1537">點擊拿取按鈕取走物件。注意！ 從別人的公寓拿走東西屬於犯罪行為。 警察可能會設下埋伏並逮捕你！</string>
   <string id="9112">點擊物件查看其描述。點擊拿取按鈕抓住物件。</string>
-  <string id="9142">當通過攝像頭看到房客做出違法行為時， 操作圖標會變色。 點擊圖標向檔案中添加證據。</string>
-  <string id="9143">當通過攝像頭看到房客做出政府禁止的行為時， 操作圖標會變色。 點擊圖標向檔案中添加證據。</string>
+  <string id="9142">當通過監視器看到房客做出違法行為時， 操作圖標會變色。 點擊圖標向檔案中添加證據。</string>
+  <string id="9143">當通過監視器看到房客做出政府禁止的行為時， 操作圖標會變色。 點擊圖標向檔案中添加證據。</string>
   <string id="14694">這是一位長官。“！”標識意味著他已經準備好為你分配新的任務。
 點擊  &lt;icon name="action"/&gt;  開始對話並查看你的任務。</string>
   <string id="14695">你可以搜查單件傢俱。要開始搜查，先走到桌子旁邊， 點擊  &lt;icon name="action"/&gt;  並選擇放大鏡圖標。</string>
   <string id="14696">點擊物體查看描述。點擊  &lt;icon name="action"/&gt;  將其拿走並放入物品欄。點擊  &lt;icon name="close"/&gt;  關閉窗口。</string>
-  <string id="14697">到警報器下方點擊  &lt;icon name="action"/&gt;。選擇想安裝的攝像頭。點擊盒子圖標來移除攝像頭。</string>
+  <string id="14697">到警報器下方點擊  &lt;icon name="action"/&gt;。選擇想安裝的監視器。點擊盒子圖標來移除監視器。</string>
   <string id="14698">點擊  &lt;icon name="right_button"/&gt;  並使用右鍵放大房間。
 
 點擊  &lt;icon name="left_button"/&gt;  查看你所在樓層。 在打開的功能表中使用左鍵來進行樓層間的移動。</string>
@@ -2326,7 +2310,7 @@ crafteverywhere</string>
   <string id="8043">你有兩天時間！</string>
   <string id="8119">開始你的下一個任務。</string>
   <string id="8121">將你收集到的證據附在你的報告中。</string>
-  <string id="8766">監視他。用你的攝像頭。
+  <string id="8766">監視他。用你的監視器。
 通過其中的一個就可以看到他可能在做違法的事情。</string>
   <string id="10851">根據我們的內線消息，雅各·曼尼什科正在做違反政府法令的事。</string>
   <string id="10852">如果你的帳戶餘額低於零，你將會被解雇。</string>
@@ -2730,7 +2714,7 @@ crafteverywhere</string>
   <string id="12505">在這個艱難時期，所有監視者必須特別注意反動宣傳活動。</string>
   <string id="12453">把我們英明領袖的宣傳海報掛在走廊上。</string>
   <string id="12765">記好了，卡爾，你的職責是“了解”你屋裡所有租戶的一切。
-去安裝五個監控攝像頭。</string>
+去安裝五個監控監視器。</string>
   <string id="12467">作為國家正大力打擊犯罪計劃的一部分，
 你得寫一份有關犯罪活動的披露報告。</string>
   <string id="14550">你應該盡快將著名的科學家，英加·比肯菲爾德，安置在房子裡。</string>
@@ -2822,7 +2806,7 @@ crafteverywhere</string>
   <string id="10847">監視雅各·曼尼什科的公寓。在你完成任務後給我們打電話。</string>
   <string id="8105">恭喜！你的第一個任務完成了。你得到了獎勵：</string>
   <string id="8109">將你收集到的證據附在你的報告中。</string>
-  <string id="10848">使用監視攝像頭暗中監視他。當攝像頭監測到有房客正在做違法的事情時，
+  <string id="10848">使用監視監視器暗中監視他。當監視器監測到有房客正在做違法的事情時，
 操作圖標會改變顏色。點擊圖標向檔案中添加證據。</string>
   <string id="10849">根據我們的內線消息，雅各·曼尼什科正在做違反政府法令的事。</string>
   <string id="10850">$500 和 +50 聲望值</string>
@@ -3004,8 +2988,8 @@ crafteverywhere</string>
   <string id="2402">如你所願。</string>
   <string id="2403">同意</string>
   <string id="2404">反對</string>
-  <string id="9160">觀察並記錄！監控攝像頭將會有所幫助。咱們從頭開始做。</string>
-  <string id="9161">讓我們回到監視器旁。在你的房子裡安裝監控攝像頭來簡化你的工作。</string>
+  <string id="9160">觀察並記錄！監控監視器將會有所幫助。咱們從頭開始做。</string>
+  <string id="9161">讓我們回到監視器旁。在你的房子裡安裝監控監視器來簡化你的工作。</string>
   <string id="9162">這是你的工作日志。它位於螢幕右邊。</string>
   <string id="9163">根據我們的記錄，你的上一任收到了 2 份。</string>
   <string id="9164">在你辦公室找到它們，位置在這個房間的右邊。</string>
@@ -3032,26 +3016,26 @@ crafteverywhere</string>
   <string id="2361">你是誰？</string>
   <string id="9157">點擊物件查看描述。點擊拿取按鈕抓取物體。
 所有信息都在這裡了。</string>
-  <string id="9158">搜查桌子並找到監控攝像頭。</string>
-  <string id="9159">我要怎麼做才能獲得攝像頭呢？</string>
-  <string id="2406">至於監控，在公寓裡安裝監控攝像頭來簡化你的工作。</string>
+  <string id="9158">搜查桌子並找到監控監視器。</string>
+  <string id="9159">我要怎麼做才能獲得監視器呢？</string>
+  <string id="2406">至於監控，在公寓裡安裝監控監視器來簡化你的工作。</string>
   <string id="2407">這麼做是為了你的自身安全。</string>
   <string id="2408">我想讓你為每個房客創建檔案，包括你的家人。</string>
-  <string id="2409">找到攝像頭並安裝在餐廳。餐廳就在你房間對面。</string>
-  <string id="2410">不用擔心；如果我們在其他地方需要攝像頭，
+  <string id="2409">找到監視器並安裝在餐廳。餐廳就在你房間對面。</string>
+  <string id="2410">不用擔心；如果我們在其他地方需要監視器，
 你可以從這裡把它們拆掉。</string>
   <string id="2411">你的家人不也是我們偉大國家的成員嗎？</string>
-  <string id="2412">你的日誌也能幫你完成好工作。它和監控攝像頭同樣重要。</string>
+  <string id="2412">你的日誌也能幫你完成好工作。它和監控監視器同樣重要。</string>
   <string id="2413">你無法想像它所揭露的事情有多有趣……</string>
-  <string id="2414">根據我們的檔案，你的前任使用過監控攝像頭。</string>
+  <string id="2414">根據我們的檔案，你的前任使用過監控監視器。</string>
   <string id="2415">你要我監視自己的家人嗎？</string>
   <string id="8135">我不知道該說什麼。</string>
   <string id="2362">你必須這樣，一遍又一遍。否則，你永遠都不知道你的房客在做什麼。</string>
   <string id="2363">真是一個奇怪的結論。你確定要接受這份工作嗎？</string>
   <string id="2364">如果不接受，你必須在你和你的家人開始整理前離開。</string>
-  <string id="2366">安裝一個監控攝像頭。這很重要。</string>
+  <string id="2366">安裝一個監控監視器。這很重要。</string>
   <string id="2367">但之前的位置已經被佔用了。</string>
-  <string id="2368">所以越過目標並安裝攝像頭。</string>
+  <string id="2368">所以越過目標並安裝監視器。</string>
   <string id="2369">我不想這樣！</string>
   <string id="2370">結束對話</string>
   <string id="8044">分配部沒有工作給你。</string>
@@ -3087,7 +3071,7 @@ crafteverywhere</string>
   <string id="3988">讓它就這樣吧。</string>
   <string id="5030">聲望值表示你在公眾間的地位。你可以通過完成任務獲取。
 你還可以出於私心使用他們來說服周圍的人做你希望他們做的事情。</string>
-  <string id="5032">在你獲取聲望值時你會收到監控攝像頭。</string>
+  <string id="5032">在你獲取聲望值時你會收到監控監視器。</string>
   <string id="8816">一旦收集到了證據就提交報告。
 警察會處理剩下的事務。</string>
   <string id="8817">最重要的一件事：一些房客很有威脅。</string>
@@ -3107,18 +3091,18 @@ crafteverywhere</string>
   <string id="2445">幫助</string>
   <string id="5037">在 2 號公寓設置監控。雅各·曼尼什科住在那裡。</string>
   <string id="5038">只能在房客不在的時候進入他們的公寓！而且要小心！</string>
-  <string id="5039">你隨時可以在國營商店購買需要的攝像頭。</string>
-  <string id="9146">關於監控，在你的房子裡安裝監控攝像頭來簡化你的工作。</string>
+  <string id="5039">你隨時可以在國營商店購買需要的監視器。</string>
+  <string id="9146">關於監控，在你的房子裡安裝監控監視器來簡化你的工作。</string>
   <string id="9147">這麼做是為了保護你。</string>
   <string id="9148">我想讓你為每個房客創建檔案，包括你的家人。</string>
   <string id="9149">你的家庭成員不也是我們偉大國家的成員嗎？</string>
-  <string id="9150">你的日誌同樣會説明你做好工作。它和監控攝像頭同樣重要。</string>
-  <string id="9151">根據我們的文件，你的上一任使用了監控攝像頭。</string>
+  <string id="9150">你的日誌同樣會説明你做好工作。它和監控監視器同樣重要。</string>
+  <string id="9151">根據我們的文件，你的上一任使用了監控監視器。</string>
   <string id="9152">你無法想像它們所揭露的事情有多麼有趣……</string>
   <string id="9153">你想讓我監視自家成員嗎？</string>
   <string id="9154">我不知道要說什麼。</string>
   <string id="9155">在你辦公室找到它們。就在起居室右側。</string>
-  <string id="9156">非常好！你找到了攝像頭。
+  <string id="9156">非常好！你找到了監視器。
 把它們安裝在餐廳。跟我來！</string>
   <string id="5040">使用你日誌中的檔案標籤。點擊修理來修理一間公寓。
 點擊遷入按鈕入住新的房客。</string>
